@@ -18,3 +18,8 @@
 - It helps developers in faster coding, in-turn reduces development cost.
 
 ### Screenshots:
+
+![Dashboard](https://github.com/K-DeepakSingh/JSONPOWERDB/blob/main/Screenshots/Screenshot%20(52).png)
+![Visualize](https://github.com/K-DeepakSingh/JSONPOWERDB/blob/main/Screenshots/Screenshot%20(53).png)
+![NetBeans](https://github.com/K-DeepakSingh/JSONPOWERDB/blob/main/Screenshots/Screenshot%20(55).png)
+![Form](https://github.com/K-DeepakSingh/JSONPOWERDB/blob/main/Screenshots/Screenshot%20(56).png)
